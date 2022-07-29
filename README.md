@@ -1,0 +1,3 @@
+# laravel-next-jwt
+
+SEPERATED WITH RESPONSE BACKEND
